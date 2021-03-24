@@ -1,5 +1,5 @@
 # Nabab-Bomb
-For Disturbing elements 
+# For Disturbing elements 
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
